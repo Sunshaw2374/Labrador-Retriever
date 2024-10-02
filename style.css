@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
 
-html{
+body{
     height: 100vh;
-    background-image:url("https://kallol.com/wp-content/uploads/2022/08/durga-puja-ev.jpg");
+    background-image: url("https://kallol.com/wp-content/uploads/2022/08/durga-puja-ev.jpg");
 }
 .introduction{
     font-family: "Cookie";
