@@ -9,7 +9,7 @@ body{
 .introduction{
     font-family: "Cookie";
     font-size: 60px;
-    color: Fuchsia;
+    color: red;
     text-align: center;
     text-shadow: 5px 5px 5px lime;
 }
@@ -36,7 +36,7 @@ body{
 .content1{
     font-family:"Oleo Script";
     font-size: 40px;
-    color: Fuchsia;
+    color: emarald;
     text-align: center;
     margin-top: 20px;
 }
