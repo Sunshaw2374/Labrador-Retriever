@@ -31,7 +31,7 @@ body{
     position: absolute;
     top: 83%;
     right: 30%;
-    border: 10px dotted rgb(51, 2, 53)
+    border: 10px dotted blue;
 }
 .content1{
     font-family:"Oleo Script";
@@ -60,6 +60,7 @@ body{
 ::-webkit-scrollbar-corner{
     background: darkblue;
 }
+
 
 
 
