@@ -4,7 +4,7 @@
 
 body{
     height: 100vh;
-    background-image: url("https://www.teahub.io/photos/full/225-2250209_wallpaper-background-warm-color-gradient.jpg");
+    background-image: url("https://th.bing.com/th/id/R.3a29cd49d86461a9ae978fb58981856e?rik=emtW5UtYOgvSWA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fhpehPUv.jpg&ehk=S5wtrtrs%2fZjsx7oav8mo%2b0FRdEW3kmGHbq7ay3PiPmQ%3d&risl=&pid=ImgRaw&r=0");
 }
 .introduction{
     font-family: "Cookie";
@@ -60,5 +60,6 @@ body{
 ::-webkit-scrollbar-corner{
     background: darkblue;
 }
+
 
 
